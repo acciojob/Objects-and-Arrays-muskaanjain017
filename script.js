@@ -9,7 +9,6 @@ const person = {
 const team = players;
 const team1 = [...players];
 const cap1 = { ...person};
-cap1.name = "Dhoni";
 window.players = players;
 window.person = person;
 window.team = team;
